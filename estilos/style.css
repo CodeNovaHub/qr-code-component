@@ -27,7 +27,7 @@
 }
 body {
     background-color: var(--slate300);
-    height: 100vh;
+    min-height: 100vh;
     width: 100vw;
     display: flex;
     justify-content: center;
